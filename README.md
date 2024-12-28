@@ -20,4 +20,5 @@ Interested_in_categories_12:	The list of categories the customer has shopped in 
 
 # DASHBOARD
 
-![FLO SALES REP](https://github.com/user-attachments/assets/99df1c01-487a-49a3-8e03-4529ff1e0018)
+![FLO REP](https://github.com/user-attachments/assets/1c1d2399-2949-441d-ac09-26632a1df2a9)
+

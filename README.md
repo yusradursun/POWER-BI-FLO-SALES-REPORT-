@@ -18,4 +18,6 @@ customer_value_total_ever_online:	Total amount spent by the customer on online p
 customer_value_total_ever_offline:	Total amount spent by the customer on offline purchases
 Interested_in_categories_12:	The list of categories the customer has shopped in the last 12 months
 
+# DASHBOARD
+
 ![FLO SALES REP](https://github.com/user-attachments/assets/99df1c01-487a-49a3-8e03-4529ff1e0018)
